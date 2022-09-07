@@ -1,0 +1,5 @@
+@medial(max-width: 1080px){
+  body:{
+    background: red;
+  }
+} 
